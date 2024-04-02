@@ -1,5 +1,5 @@
-### Hi there 👋
 DAVOODUL HAKEEM
+
 iOS, React Native, React Developer 
 
 <!--
